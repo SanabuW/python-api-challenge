@@ -1,5 +1,5 @@
 # User-specified
-WeatherPy/api_keys.py
+WeatherPy/api_keys_local.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
