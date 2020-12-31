@@ -35,7 +35,7 @@ Submission file for Part 2\
 -Located in: root
 
 ### images folders
--Both WeatherPy and VacationPy have an "images" directory, where the required screenshots by the assignment can be found.
+-Both WeatherPy and VacationPy have an "images" directory, where the screenshots required by the assignment can be found.
 
 ### api_keys.py
 -The config file that will hold API keys for requests\
