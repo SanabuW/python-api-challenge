@@ -4,8 +4,8 @@ Python API call assignment for UCSD Data Bootcamp
 ## Project Overview
 This repository is for the Python API call assignment for the UCSD Data Bootcamp.
 
-The API of OpenWeatherMap, Google Places and Google Maps were used in two parts:
-https://openweathermap.org/api
+The APIs of [OpenWeatherMap](https://openweathermap.org/api) and [Google Places](https://developers.google.com/places/web-service/overview) were used in two parts:
+
 
 ### Part 1
 Make requests for 500+ data points on weather patterns based on locations and run regression analyses on various comparisons.
@@ -35,7 +35,7 @@ Submission file for Part 2\
 -Located in: root
 
 ### images folders
--Both WeatherPy and VacationPy have an "images" directory, where the required screenshots by the assignment can be found.\
+-Both WeatherPy and VacationPy have an "images" directory, where the required screenshots by the assignment can be found.
 
 ### api_keys.py
 -The config file that will hold API keys for requests\
