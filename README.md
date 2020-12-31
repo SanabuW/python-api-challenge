@@ -46,6 +46,6 @@ Submission file for Part 2\
 -Data output for all requests to OpenWeatherMap\
 -Located in: WeatherPy
 
-### pymaceuticals_submission_file.py
+### photelOutput.csv
 -Data output for that includes output from request to Google Places\
 -Located in: VacationPy
